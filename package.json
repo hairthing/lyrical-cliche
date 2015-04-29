@@ -1,0 +1,27 @@
+{
+  "name": "lyrical-cliche",
+  "version": "1.0.0",
+  "description": "use ngrams to rate songs for usage of cliches in lyrics",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "cheerio": "^0.19.0",
+    "follow-redirects": "^0.0.3",
+    "request": "^2.55.0",
+    "sync-request": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canted/lyrical-cliche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canted/lyrical-cliche/issues"
+  },
+  "homepage": "https://github.com/canted/lyrical-cliche"
+}
